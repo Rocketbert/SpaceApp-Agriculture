@@ -1,0 +1,12 @@
+
+[theme]
+
+primaryColor = "#FAFAFA"
+
+backgroundColor = "#88B984"
+
+secondaryBackgroundColor = "#a5d4a2"
+
+textColor = "#000000"
+
+font = "sans serif"  # Choose between "serif", "sans serif", or "monospace"
